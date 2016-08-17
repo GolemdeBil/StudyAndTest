@@ -26,7 +26,7 @@ namespace StudyAndTest
                         break;
                     case 3:
                         Console.WriteLine("############### BEGIN ##############");
-                        Console.WriteLine("Problem 3");
+                        Problem03.FallenInLove();
                         Console.WriteLine("################ END ###############");
                         break;
                     case 4:
